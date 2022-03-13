@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConverterMAD</string>
+    <string name="convert">Convert</string>
+    <string name="clear">Clear history</string>
+</resources>
